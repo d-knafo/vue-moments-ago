@@ -56,8 +56,8 @@ Result:
 
 ### Supported languages
 
-We support English, Korean and Japanese. y Language options are available. default value is "en".
+We support English, Korean, French and Japanese. y Language options are available. default value is "en".
 
 ```
-en kr jp
+en kr jp fr
 ```
